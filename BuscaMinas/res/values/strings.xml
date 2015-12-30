@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Busca-Minas</string>
+    <string name="action_settings">Settings</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Salir">Salir</string>
+    <string name="Nivel">Nivel</string>
+    <string name="Honor">Honor</string>
+    <string name="Intro">Introduzca nivel de dificultad</string>
+	<string name="Aceptar">Aceptar</string>
+	<string name="Cancelar">Cancelar</string>
+	<string name="ActivityHonor">Cuadro de honor</string>
+	<string name="ActivityIncluir">Inscribir ganador</string>
+	<string name="ActivityNivel">Nivel de dificultad</string>
+    <string name="Intronom">Introduzca su nombre para entrar en el cuadro de honor</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Volver">Volver</string>
+    <string name="Cuadro">Cuadro de Honor</string>
+</resources>
